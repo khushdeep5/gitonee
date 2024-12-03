@@ -30,9 +30,8 @@ def main():
         repeat_val=most_repeats(dice_roll)
 
         print(f'Your roll of {dice_roll} contains {repeat_val} of a kind')
-        print()
         try_again=input("Do you want to roll again (Y/N)?" )
-        print("helloooooo")
+        print()
 
 if __name__ == "__main__":
     main()
