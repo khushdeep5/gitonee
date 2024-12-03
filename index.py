@@ -31,7 +31,7 @@ def main():
 
         print(f'Your roll of {dice_roll} contains {repeat_val} of a kind')
         try_again=input("Do you want to roll again (Y/N)?" )
-        print()
+        print("helloooooo")
 
 if __name__ == "__main__":
     main()
